@@ -1,0 +1,24 @@
+{
+    // Disable the menu bar.
+    "window.menuBarVisibility": "toggle",
+
+    // Enable the Nord theme.
+    "workbench.colorTheme": "Nord",
+
+    // Enable Powerline.
+    // "vscode_custom_css.imports": [
+    //     "~/.config/VSCodium/powerline/powerline.css"
+    // ],
+
+    // Enable better syntax highlighting.
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    // Extend the icon theme.
+    "workbench.iconTheme": "vscode-icons",
+
+    // Disable the startup banner for a cleaner and more straightforward look.
+    "workbench.startupEditor": "none",
+
+    // Disable the Activity Bar for a more minimal environment.
+    "workbench.activityBar.visible": false
+}
