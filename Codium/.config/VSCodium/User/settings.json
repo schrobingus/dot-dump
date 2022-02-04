@@ -4,5 +4,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.iconTheme": "vscode-icons",
     "workbench.startupEditor": "none",
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "terminal.integrated.defaultProfile.linux": "zsh"
 }
