@@ -11,5 +11,10 @@ Clone the repository in the `~/.dotfiles`. For reference, the command used is `g
 - ✅ Install development tools
 - ✅ Install Vim-plug
 - ⬜ Configure Vim as a secondary editor
+<<<<<<< HEAD
 - ✅ Install Zsh and ZI
 - ⬜ Configure Zsh and load OMZ plugins with Zinit
+=======
+- ⬜ Install Zsh and Zinit
+- ⬜ Configure Zsh and load OMZ plugins with Zinit
+>>>>>>> a7218d03e3f6a4d5a9e63ab3d4e6a97ab5f28d79
