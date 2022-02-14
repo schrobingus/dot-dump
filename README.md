@@ -1,3 +1,6 @@
+# Might rework;
+Recently, Microsoft has released a VSCode web app for modern browsers. It is more gimped than the Desktop version, and I do prefer running Linux, but the better reason for using this over the desktop version in Crostini is because Crostini on ARM devices (like my Duet) is slow, and this especially gets bad with Electron applications such as Codium; so switching to a Web App version would make the whole thing speedier and preserve more battery life.
+
 # Debian Dotfiles for Crostini
 These are my dotfiles that I use for my Chromebook Duet. The primary editor is VSCodium, which uses Vim bindings and has proprietary repositories enabled, but they can be disabled in favor of the FOSS repositories for VSCodium by editing the `product.json` file. 
 
