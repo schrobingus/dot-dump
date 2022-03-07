@@ -9,4 +9,8 @@
 
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.vertical": "hidden",
+
+    "editor.disableMonospaceOptimizations": true,
+
+    "vim.useSystemClipboard": true,
 }

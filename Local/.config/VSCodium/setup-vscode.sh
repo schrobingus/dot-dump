@@ -11,4 +11,5 @@ codium --install-extension esbenp.prettier-vscode || true                    # B
 codium --install-extension ms-python.vscode-pylance || true                  # Language Server for Python
 codium --install-extension ms-python.python || true                          # Python Support
 codium --install-extension wayou.vscode-todo-highlight || true               # Highlight TODO Marks
+codium --install-extension vscodevim.vim                                     # Vim Emulation for VSCode
 codium --install-extension redhat.vscode-yaml || true                        # YAML Support
