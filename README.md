@@ -1,3 +1,5 @@
+# Quick Notice
+I have decided to archive the repository, as I have now merged these dotfiles into [my main dotfiles repository](https://github.com/BrentBoyMeBob/dot-main). Everything is now updated there, including my VSCode configuration.
 
 # VSCode Dotfiles for ChromeOS + Crostini
 
