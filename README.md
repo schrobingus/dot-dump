@@ -2,6 +2,7 @@
 This consists of dotfiles that I used to use that are no longer needed. This repository currently includes:
 - My DWM, ST, and Tabbed forks.
 - Fonts to go along, including Cascadia Code.
+- A VSCode / VSCodium configuration with Emacs bindings, deployed with shell scripts.
 - Xresources (since none of the applications I use need it).
 - Scripts for Suckless, including a quick Maim + XClip shortcut, as well as a shortcut for Tabbed.
 
